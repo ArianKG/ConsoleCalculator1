@@ -1,4 +1,4 @@
-DIR=build build
+DIR=build
 $(shell mkdir -p $(DIR))
 $(shell gcc Program.c -o build/ConsoleCalculator1)
 $(shell echo "run.sh" > build/run.sh)
