@@ -40,5 +40,5 @@ int main()
                 printf("Invalid\n");
         }
     }
-    while (1);
+    while(1);
 }
