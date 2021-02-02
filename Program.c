@@ -9,7 +9,7 @@ int main()
     {
         scanf("%lf", &num1);
         scanf("%lf", &num2);
-        printf("\ta - Add\n\tb - Substract\n\tc - Multiply\n\td - Divide\n");
+        printf("\ta - Add\n\tb - Subtract\n\tc - Multiply\n\td - Divide\n");
         scanf(" %c", &ch);
         switch (ch)
         {
